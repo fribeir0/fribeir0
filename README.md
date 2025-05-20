@@ -24,11 +24,10 @@
 ### 📜 Certificações
 
 #### 🛡️ **Cibersegurança**
+- **IBSEC - *SOC Analyst*
+- **IBSEC - Linux Security**
 - **Fortinet Certified Associate Cybersecurity**
 - **Fortinet Certified Fundamentals Cybersecurity**
-- **Fortinet FortiGate 7.4 Operator**
-- **Getting Started in Cybersecurity 2.0**
-- **Introduction to the Threat Landscape 2.0**
 - **Cisco Cybersecurity Essentials**
 
 #### ☁️ **Cloud / AWS**
