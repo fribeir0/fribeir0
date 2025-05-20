@@ -24,6 +24,13 @@
 
 ---
 
+- 🧩 **CTFs**:
+  - 40° Lugar CTF HackersDoBem (2024)
+  - 1° CTF Minsait (2025)
+  - CTF internos e estudos independentes
+
+---
+
 ### 📜 Certificações
 
 #### 🛡️ **Cibersegurança**
@@ -42,14 +49,6 @@
 - **CCNA: Switching, Routing, and Wireless Essentials**
 - **CCNA: Enterprise Networking, Security, and Automation**
 
----
-
-- 🧩 **CTFs**:
-  - 40th CTF HackersDoBem (2024)
-  - 1th CTF Minsait (2025)
-  - CTF internos e estudos independentes
-
----
 
 ### 📊 GitHub Stats
 
