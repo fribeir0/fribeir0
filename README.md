@@ -26,7 +26,7 @@
 
 - 🧩 **CTFs**:
   - 40° Lugar CTF HackersDoBem (2024)
-  - 1° CTF Minsait (2025)
+  - 1° Lugar CTF Minsait SIMOC (2025)
   - CTF internos e estudos independentes
 
 ---
