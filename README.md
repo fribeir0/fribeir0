@@ -1,4 +1,6 @@
-<h1 align="center">⚡ Fribeir0 — Explorando bytes e brechas</h1>
+<h1 align="center">⚡ Fribeir0 — Hackear é entender. Entender é explorar.
+
+</h1>
 
 <p align="center">
   <i>Cybersecurity | AWS | Fortinet | Cisco | Linux | CTF Player</i><br>
