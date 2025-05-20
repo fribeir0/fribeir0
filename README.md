@@ -24,7 +24,7 @@
 ### 📜 Certificações
 
 #### 🛡️ **Cibersegurança**
-- **IBSEC - *SOC Analyst*
+- **IBSEC - *SOC Analyst**
 - **IBSEC - Linux Security**
 - **Fortinet Certified Associate Cybersecurity**
 - **Fortinet Certified Fundamentals Cybersecurity**
