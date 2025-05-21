@@ -12,7 +12,7 @@
 ### 🛠️ Stack & Ferramentas
 
 <p align="left">
-  <img src="https://skillicon.dev/icons?l=aws,azure,gcp,linux">
+  <img src="https://skillicon.dev/icons?i=aws,azure,gcp,linux">
   <img src="https://img.shields.io/badge/Fortinet-%23EE1D23.svg?style=for-the-badge&logo=fortinet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-%230074C1.svg?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
