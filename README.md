@@ -12,12 +12,9 @@
 ### 🛠️ Stack & Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://skillicon.dev/icons?l=aws,azure,gcp,linux">
   <img src="https://img.shields.io/badge/Fortinet-%23EE1D23.svg?style=for-the-badge&logo=fortinet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-%230074C1.svg?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/CTF%20Player-%23f13a13.svg?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
