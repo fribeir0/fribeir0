@@ -53,18 +53,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fribeir0&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fribeir0&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
 
-### 🧠 Filosofia Hacker
-
-> "Hackear é entender. Entender é explorar."
-
----
 
 ### 📫 Contato
 
@@ -72,6 +65,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fribeir0&style=flat-square&color=green" alt="profile views" />
-</p>
