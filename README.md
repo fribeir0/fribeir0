@@ -12,7 +12,7 @@
 ### 🛠️ Stack & Ferramentas
 
 <p align="left">
-  <img src="https://skillicon.dev/icons?i=aws,azure,gcp,linux">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux">
 </p>
 
 ---
