@@ -31,21 +31,21 @@
 
 ### 📜 Certificações
 
-#### 🛡️ **Cibersegurança**
-- **IBSEC - SOC Analyst**
-- **IBSEC - Linux Security**
-- **Fortinet Certified Associate Cybersecurity**
-- **Fortinet Certified Fundamentals Cybersecurity**
-- **Cisco Cybersecurity Essentials**
+  #### 🛡️ **Cibersegurança**
+  - **IBSEC - SOC Analyst**
+  - **IBSEC - Linux Security**
+  - **Fortinet Certified Associate Cybersecurity**
+  - **Fortinet Certified Fundamentals Cybersecurity**
+  - **Cisco Cybersecurity Essentials**
 
-#### ☁️ **Cloud / AWS**
-- **AWS Certified Cloud Practitioner**
-- **AWS Academy Cloud Foundations**
+  #### ☁️ **Cloud / AWS**
+  - **AWS Certified Cloud Practitioner**
+  - **AWS Academy Cloud Foundations**
 
-#### 🌐 **Redes – Cisco CCNA**
-- **CCNA: Introduction to Networks**
-- **CCNA: Switching, Routing, and Wireless Essentials**
-- **CCNA: Enterprise Networking, Security, and Automation**
+  #### 🌐 **Redes – Cisco CCNA**
+  - **CCNA: Introduction to Networks**
+  - **CCNA: Switching, Routing, and Wireless Essentials**
+  - **CCNA: Enterprise Networking, Security, and Automation**
 
 
 ### 📊 GitHub Stats
