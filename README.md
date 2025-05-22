@@ -1,6 +1,6 @@
-<h1 align="center">⚡ Fribeir0 — Hackear é entender. Entender é explorar.
-
-</h1>
+<p align = "center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=35&duration=2900&pause=1000&color=F7F7F7&center=true&width=435&lines=fribeir0;Hackear+%C3%A9+entender;Entender+%C3%A9+explorar.">
+<p>
 
 <p align="center">
   <i>Cybersecurity | AWS | Fortinet | Cisco | Linux | CTF Player</i><br>
