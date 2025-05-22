@@ -16,15 +16,14 @@
 </p>
 
 ---
-
+  <p align="right">
+  <img src="https://media.tenor.com/ko4tpRh2FTcAAAAj/mr-free-super-tux.gif">
+</p>
 - 🧩 **CTFs**:
   - 40° Lugar CTF HackersDoBem (2024)
   - 1° Lugar CTF Minsait SIMOC (2025)
   - CTF internos e estudos independentes
 
-  <p align="right">
-  <img src="https://media.tenor.com/ko4tpRh2FTcAAAAj/mr-free-super-tux.gif">
-</p>
 
 ---
 
