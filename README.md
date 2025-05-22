@@ -11,7 +11,7 @@
 
 ### 🛠️ Stack & Ferramentas
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,linux,py,go,bash,kali,docker,git,github,grafanna">
 </p>
 
