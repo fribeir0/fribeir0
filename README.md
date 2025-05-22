@@ -15,6 +15,10 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,linux,py,go,bash,kali,docker,git,github,grafanna">
 </p>
 
+<p align="right">
+  <img src="https://media.tenor.com/ko4tpRh2FTcAAAAj/mr-free-super-tux.gif">
+</p>
+
 ---
 
 - 🧩 **CTFs**:
